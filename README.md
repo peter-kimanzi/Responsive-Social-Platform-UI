@@ -8,3 +8,6 @@ Responsive Social Platform UI using CSS only
 * CSS
 
 ## Live Link 
+
+
+## Screenshots
